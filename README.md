@@ -1,6 +1,5 @@
-# Portfolio of Vinayak Singh
+# Portfolio of Vignesh
 
-<img src ="" />
  
 This project was created with CRA (Create React App)
 
