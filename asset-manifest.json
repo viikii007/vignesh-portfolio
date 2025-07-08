@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/viikii007/vignesh-portfolio/static/css/main.039bf95e.css",
+    "main.js": "/viikii007/vignesh-portfolio/static/js/main.640f6f0a.js",
+    "static/media/Vignesh.webp": "/viikii007/vignesh-portfolio/static/media/Vignesh.aa9c87b0f036b363551d.webp",
+    "static/media/Hello.gif": "/viikii007/vignesh-portfolio/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/Vignesh_Resume .pdf": "/viikii007/vignesh-portfolio/static/media/Vignesh_Resume .03963f2e1addfb692427.pdf",
+    "static/media/x-code.svg": "/viikii007/vignesh-portfolio/static/media/x-code.b31073315b4f7b90614ba696ddc34957.svg",
+    "static/media/cert1.jpg": "/viikii007/vignesh-portfolio/static/media/cert1.e34ea2380baaa592581d.jpg",
+    "static/media/illustration.svg": "/viikii007/vignesh-portfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/compose.svg": "/viikii007/vignesh-portfolio/static/media/compose.eb0bfcc870efa09d45ddbb3707f32b5c.svg",
+    "static/media/whatsapp.svg": "/viikii007/vignesh-portfolio/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "static/media/fire-base.svg": "/viikii007/vignesh-portfolio/static/media/fire-base.8018419346b9272b9e68085e5f4cf3f0.svg",
+    "static/media/xml-logo.svg": "/viikii007/vignesh-portfolio/static/media/xml-logo.a2e6e37ec88ca4e0cbc3a64449b582c2.svg",
+    "static/media/java.svg": "/viikii007/vignesh-portfolio/static/media/java.ea37baa6a1d1a1d45345798657d7d092.svg",
+    "static/media/kotlin.svg": "/viikii007/vignesh-portfolio/static/media/kotlin.fee1f301ebc9dc2921b41f5900994c4f.svg",
+    "static/media/python.svg": "/viikii007/vignesh-portfolio/static/media/python.7658fc5b493f0fa4979b28893c05b15b.svg",
+    "index.html": "/viikii007/vignesh-portfolio/index.html",
+    "static/media/android-studio.svg": "/viikii007/vignesh-portfolio/static/media/android-studio.d26fafafcca6031a799e7794225c5f06.svg",
+    "static/media/swift-logo.svg": "/viikii007/vignesh-portfolio/static/media/swift-logo.f0f4cccceeb412ebbe5124e93e8bc94d.svg",
+    "static/media/github.svg": "/viikii007/vignesh-portfolio/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/external-link.svg": "/viikii007/vignesh-portfolio/static/media/external-link.8ce0d189635b118259ec51d8c9b4a1d0.svg",
+    "static/media/k-tor.svg": "/viikii007/vignesh-portfolio/static/media/k-tor.76f3d255127d4380cf01192250959a3c.svg",
+    "static/media/flutter.svg": "/viikii007/vignesh-portfolio/static/media/flutter.4b72866fcd37a05d19865118bff302c5.svg",
+    "static/media/linkedin.svg": "/viikii007/vignesh-portfolio/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "main.039bf95e.css.map": "/viikii007/vignesh-portfolio/static/css/main.039bf95e.css.map",
+    "main.640f6f0a.js.map": "/viikii007/vignesh-portfolio/static/js/main.640f6f0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.640f6f0a.js"
+  ]
+}
