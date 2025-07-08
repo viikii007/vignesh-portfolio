@@ -6,17 +6,16 @@ import { Contact } from "../Contact/Contact";
 import { Project } from "../Project/Project";
 import python from "../../assets/python.svg"
 import java from "../../assets/java.svg"
-import wordpress from "../../assets/wordpress.svg";
-import shopify from "../../assets/shopify.svg";
-import htmlIcon from "../../assets/html-icon.svg";
-import cssIcon from "../../assets/css-icon.svg";
-import sassIcon from "../../assets/sass-icon.svg";
-import jsIcon from "../../assets/js-icon.svg";
-// import nodeIcon from "../../assets/node-icon.svg";
-import reactIcon from "../../assets/react-icon.svg";
-import typescriptIcon from "../../assets/typescript-icon.svg";
-import vueIcon from "../../assets/vue-icon.svg";
-import boostrapIcon from "../../assets/bootstrap-icon.svg";
+import compose from "../../assets/compose.svg";
+import ktor from "../../assets/k-tor.svg";
+import swift from "../../assets/swift-logo.svg";
+import androidstudio from "../../assets/android-studio.svg";
+import kotlin from "../../assets/kotlin.svg";
+import firebase from "../../assets/fire-base.svg";
+import flutter from "../../assets/flutter.svg";
+import xml from "../../assets/xml-logo.svg";
+import xcode from "../../assets/x-code.svg";
+import { Certificates } from "../Certificates/certificate";
 
 export function Main() {
   return (
@@ -151,32 +150,32 @@ export function Main() {
               },
               "image": [
                 {
-                  "src": boostrapIcon,
+                  "src": xcode,
                   "width": 20,
                   "height": 20
                 },
                 {
-                  "src": cssIcon,
+                  "src": androidstudio,
                   "width": 20,
                   "height": 20
                 },
                 {
-                  "src": wordpress,
+                  "src": compose,
                   "width": 20,
                   "height": 20
                 },
                 {
-                  "src": shopify,
+                  "src": ktor,
                   "width": 20,
                   "height": 20
                 },
                 {
-                  "src": htmlIcon,
+                  "src": swift,
                   "width": 20,
                   "height": 20
                 },
                 {
-                  "src": jsIcon,
+                  "src": kotlin,
                   "width": 20,
                   "height": 20
                 },
@@ -196,17 +195,12 @@ export function Main() {
                   "height": 20
                 },
                 {
-                  "src": reactIcon,
+                  "src": firebase,
                   "width": 20,
                   "height": 20
                 },
                 {
-                  "src": sassIcon,
-                  "width": 20,
-                  "height": 20
-                },
-                {
-                  "src": typescriptIcon,
+                  "src": flutter,
                   "width": 20,
                   "height": 20
                 },
@@ -216,7 +210,7 @@ export function Main() {
                 //   "height": 20
                 // },
                 {
-                  "src": vueIcon,
+                  "src": xml,
                   "width": 20,
                   "height": 20
                 },
@@ -265,7 +259,8 @@ export function Main() {
       <Hero></Hero>
       <About></About>
       <Project></Project>
-      <Contact></Contact>
+      <Certificates></Certificates>
+      {/* <Contact></Contact> */}
     </Container>
   );
 }

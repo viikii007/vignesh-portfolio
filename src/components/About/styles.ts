@@ -45,18 +45,21 @@ export const Container = styled.section`
   
   
 
-  .about-image{
-    text-align: center;
-   img{
-     margin-top: 2rem;
-     width: 75%;
-     filter: grayscale(0);
-     transition: filter 0.5s;
-     &:hover{
-       filter: grayscale(0);
-     }
-   }
+.about-image {
+  text-align: center;
+  img {
+    margin-top: 2rem;
+    width: 75%;
+    filter: grayscale(0);
+    transition: filter 0.5s;
+    border-radius: 50%;
+    object-fit: cover;
+    aspect-ratio: 1 / 1;
+    &:hover {
+      filter: grayscale(0);
+    }
   }
+}
 
   @media only screen and (max-width: 480px) {
     .about-image {

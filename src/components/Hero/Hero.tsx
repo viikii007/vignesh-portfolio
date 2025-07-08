@@ -16,14 +16,15 @@ export function Hero() {
           <p>Hello <img src={Hello} alt="Hello" width="20px"/>, I'm</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.2 * 1000}>
-          <h1>Vinayak Singh</h1>
+          <h1>Vignesh</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Software Engineer</h3>
+          <h3>Android Developer</h3>
+          <br/>
         </ScrollAnimation>
-        <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">1 Year Experience</p>
-        </ScrollAnimation>
+        {/* <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
+          <p className="small-resume">3 Years of Experience</p>
+        </ScrollAnimation> */}
         <ScrollAnimation animateIn="fadeInUp" delay={0.8 * 1000}>
           <BrowserRouter>
             <NavHashLink smooth to="#contact" className="button">Contact</NavHashLink>
@@ -31,33 +32,36 @@ export function Hero() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={1 * 1000}>
       <div className="social-media"><a
-        href="https://www.linkedin.com/in/codevinayak"
+        href="https://www.linkedin.com/in/vignesh-android-dev/"
         target="_blank"
         rel="noreferrer"
       >
         <img src={linkedin} alt="Linkedin" />
       </a>
         <a
-          href="https://github.com/CodeVinayak/"
+          href="https://github.com/viikii007"
           target="_blank"
           rel="noreferrer"
         >
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://api.whatsapp.com/send/?phone=%2B919630576848&text=Hello+Vinayak+I+found+your+contact+through+portfolio+site.%0A%0A"
+          href="https://api.whatsapp.com/send/?phone=%2B919345758788&text=Hello+Vignesh+I+found+your+contact+through+portfolio+site.%0A%0A"
           target="_blank"
           rel="noreferrer"
         >
           <img src={whatsapp} alt="Whatsapp" />
         </a>
-        <a
+
+        {/* <a
           href="https://t.me/CodeVinayak"
           target="_blank"
           rel="noreferrer"
         >
           <img src={telegram} alt="telegram" />
-        </a></div>
+        </a> */}
+        
+        </div>
         </ScrollAnimation>
       </div>
       <div className="hero-image">

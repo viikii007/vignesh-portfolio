@@ -10,38 +10,38 @@ export function Footer() {
   return (
     <Container className="footer">
       <a href="https://vinayaksingh.in" className="logo">
-        <span>www.vinayak</span>
-        <span>singh.in</span>
+        <span></span>
+        <span></span>
       </a>
       <div>
         <p>
-          This Website was made with <img src={reactIcon} alt="React" />
+          This Website was made with React
           {/* <span>❤️</span> */}
         </p>
       </div>
       <div className="social-media">
         <a
-          href="https://www.linkedin.com/in/codevinayak"
+          href="https://www.linkedin.com/in/vignesh-android-dev/"
           target="_blank"
           rel="noreferrer"
         >
           <img src={linkedin} alt="Linkedin" />
         </a>
         <a
-          href="https://github.com/CodeVinayak/"
+          href="https://github.com/viikii007"
           target="_blank"
           rel="noreferrer"
         >
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://api.whatsapp.com/send/?phone=%2B919630576848&text=Hello+Vinayak+I+found+your+contact+through+portfolio+site.%0A%0A"
+          href="https://api.whatsapp.com/send/?phone=%2B919345758788&text=Hello+Vignesh+I+found+your+contact+through+portfolio+site.%0A%0A"
           target="_blank"
           rel="noreferrer"
         >
           <img src={whatsapp} alt="Whatsapp" />
         </a>
-        <a
+        {/* <a
           href="https://t.me/CodeVinayak"
           target="_blank"
           rel="noreferrer"
@@ -54,7 +54,7 @@ export function Footer() {
           rel="noreferrer"
         >
           <img src={instagramIcon} alt="Instagram" />
-        </a>
+        </a> */}
       </div>
     </Container>
   )
